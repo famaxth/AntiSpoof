@@ -1,7 +1,7 @@
 # 🎙 Fake Voice Detection with LightCNN (PyTorch)
 
 This project was developed as part of the **Summer Research Practice at HSE University**.  
-It implements and trains a **LightCNN**-based model to detect **synthetic (spoofed) speech** using the **ASVSpoof 2019** dataset.  
+It implements and trains a **LightCNN**-based model to detect **synthetic (spoofed) speech** using the **ASVspoof 2019** dataset.  
 
 The system is trained to distinguish between genuine and fake audio samples and achieves an **Equal Error Rate (EER)** of approximately **4%**.  
 
